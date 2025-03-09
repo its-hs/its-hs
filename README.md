@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @its-hs: Hassam
-- 👀 I’m interested in software Engineering and do Programming, Nowadays doing Web development
-- 🌱 I’m currently learning  MERN stack and DJANGO
+- 👀 I’m interested in software Engineering and do Programming, Nowadays doing Web development , am a MERN and NEXT.js Developer
+- 🌱 I’m currently learning  Nest.js
 - 💞️ I’m looking to collaborate on My projects
 - 📫 How to reach me ...
 - 😄 Pronouns: ...HIS/HIM
